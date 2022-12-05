@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "marca": "Pedigree",
+        "modelo": "Bolsa de 21k adulto",
+        "precio": 8500,
+        "imagen" : "https://http2.mlstatic.com/D_NQ_NP_813120-MLA49656683084_042022-V.jpg"        
+    
+    },
+    {
+        "id": 2,
+        "marca": "Dogchow",
+        "modelo": "Bolsa de 21k adulto",
+        "precio": 10000,
+        "imagen" : "https://http2.mlstatic.com/D_NQ_NP_793926-MLA43229058650_082020-O.webp"        
+    },
+    {
+        "id": 3,
+        "marca": "Sabrocitos",
+        "modelo": "Bolsa de 21k adulto",
+        "precio": 6500,
+        "imagen" : "https://http2.mlstatic.com/D_NQ_NP_605185-MLA43702799162_102020-O.jpg"        
+    },
+    {
+        "id" : 4,
+        "marca": "Raza",
+        "modelo": "Bolsa de 21k adulto",
+        "precio": 7500,
+        "imagen" : "https://perrosygatosfood.com.ar/wp/wp-content/uploads/2019/09/RAZA_PERRO_CARNE.jpg"        
+    },
+    {
+        "id": 5,
+        "marca": "Old prince cordero",
+        "modelo": "Bolsa de 21k adulto",
+        "precio": 15000, 
+        "imagen" : "https://http2.mlstatic.com/D_NQ_NP_758593-MLA48285634479_112021-V.jpg"        
+    },
+    {
+        "id": 6,
+        "marca": "Pedigree",
+        "modelo": "Bolsa de 15k adulto",
+        "precio": 5500, 
+        "imagen" : "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/042/807/products/cpcsink1-9a659b4d0241a5904915734748642429-640-0.png"        
+    },
+    {
+        "id": 7,
+        "marca": "Dogchow",
+        "modelo": "Bolsa de 15k adulto",
+        "precio": 6500, 
+        "imagen" : "https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/social_share_large/public/dog-chow-hogarenos-adulto-producto.png?itok=Knhk49N1"        
+    },
+    {
+        "id": 8,
+        "marca": "Sabrocitos",
+        "modelo": "Bolsa de 15k adulto",
+        "precio": 4450, 
+        "imagen" : "https://jumboargentina.vtexassets.com/arquivos/ids/674833/Sabrositos-Cachorro-Mix-Carnes-cereales-Y-Veg-1-880326.jpg?v=637720041802970000"        
+    },
+    {
+        "id": 9,
+        "marca": "Raza",
+        "modelo": "Bolsa de 15k adulto",
+        "precio": 4700, 
+        "imagen" : "https://http2.mlstatic.com/D_NQ_NP_777180-MLA41652441203_052020-O.jpg"        
+    },
+    {
+        "id": 10,
+        "marca": "Old prince cordero",
+        "modelo": "Bolsa de 15k adulto",
+        "precio": 7500, 
+        "imagen" : "https://glotonpets.com.ar/wp-content/uploads/2020/10/cordero2-a8cbf6af0140e74b9a15929444765233-640-0.jpg"        
+    }
+    ]

@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color: black;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 4rem;
+    font-weight: 400;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    font-family: 'Lora', serif;
+    color: #8758FF !important; 
+
+}
+
+
+.carritoCSS{
+    color: black;
+}
+
+
+.monitores {
+    display: flex;
+    justify-content:  center;
+    margin: 0 auto;
+}
+
+.card{
+    margin: 5% 0;
+    border-radius: 10px;
+    border: solid black 5px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin: auto;
+}
+
+.buscador{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+img{
+    height: 280px
+}
+
+.marca{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.modelo{
+    font-size: 30px;
+    font-family: 'Lora';
+}
+
+.resolucion{
+    font-size: 25px;
+    font-weight: regular;
+}
+
+.precio{
+    font-size: 20px;
+}
+
+.card-body{
+    text-align: center;
+    font-size: 2 rem;
+}
+
+
+h1{
+    color: #5CB8E4; 
+}
+
+h2{
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-size: 55px;
+    color: #8758FF;
+    margin: 6rem 0 6rem 0;
+}
+
+.comprar{
+    font-size: 29px;
+    padding: 10px;
+    border-radius: 47px;
+    margin: 19px auto;
+    
+}
+.comprar:hover {
+    color: red
+    
+}
+
+
+button{
+    font-size: 21px;
+    margin: 16%;
+    font-family: 'Lora', serif;
+
+}
+
+
+table{
+    margin: 50px 0;
+}
+
+
+.modal-dialog{
+    position: fixed;
+    right: 9rem;
+}
+
+
+.buscador{
+    margin: 0 3rem;
+}
+
+input{
+    border: solid black;
+}
+
+.ubicacion{
+display: flex;
+    justify-content: center;
+    margin: 13vh 0;
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    color: #8758FF ;
+}
+
+.centrado{
+    margin: 0 30%;
+}
+
+#exampleFormControlTextarea1{
+    height: 18vh;
+    margin-bottom: 44vh;
+}
+
+
+.fotoProductoCarrito{
+    height: 100px;
+}
+
+.modal-content{
+    width: 39rem;
+}
+
+.sumar{
+    margin: 0 0 0 3rem;
+}
+
+table p{
+    margin: 0 34px;
+}
+
+.marcaTable{
+    position: fixed;
+    right: 26rem;
+    top: 8rem;
+}
+
+.cantidadTable{
+    position: fixed;
+    right: 18rem;
+    top: 8rem;
+}
+
+.precioTable{
+    position: fixed;
+    right: 11rem;
+    top: 8rem;
+}
+
+.compra{
+    background-color: rgb(15, 97, 15);
+}
+.vaciar{
+    background-color: rgb(192, 51, 51);
+}
